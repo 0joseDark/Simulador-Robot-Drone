@@ -1,2 +1,5 @@
 # Simulador-Robot-Drone
-simulador_fisica_app
+- simulador fisica app
+```bash
+pip install pyqt5 pyserial matplotlib
+```
